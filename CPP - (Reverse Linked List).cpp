@@ -92,5 +92,5 @@ int main(void)
         printList(head);
     }
      
-    return(0);
+    return(1);
 }
